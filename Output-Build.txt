@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: CS300_Hw5, Configuration: Debug Win32 ------
+1>BarcodeArrayScanner.cpp
+1>ScannedItem.cpp
+1>Generating Code...
+1>CS300_Hw4.vcxproj -> C:\Users\Andrew\Source\Repos\BCCCS_CS300_AndrewF_Hw4\Debug\CS300_Hw5.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

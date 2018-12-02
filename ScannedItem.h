@@ -29,7 +29,7 @@ public:
 	// for the input of a hashing function
 	long GetHash() const
 	{
-		return hash<float>{}(this->barcode);
+		return hash<double>{}(this->barcode);
 	}
 
 	// used for comparisons
